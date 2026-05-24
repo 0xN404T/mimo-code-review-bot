@@ -1,17 +1,15 @@
-# MiMo Code Review Bot
+# mimo-code-review-bot
 
-AI-powered GitHub pull request reviewer using Xiaomi MiMo API.
+Real prototype for Xiaomi MiMo 100T creator program.
 
-## Features
-- Reviews pull requests automatically
-- Detects bugs, security risks, and style issues
-- Generates concise review comments
-- Supports JavaScript, Python, Go, and Rust
+## Purpose
+This project demonstrates practical Xiaomi MiMo API usage for developer workflows.
 
-## Tech Stack
-- Node.js
-- GitHub Webhooks
-- Xiaomi MiMo API
+## Run
+See source files and `.env.example`.
 
 ## Status
-Prototype planned for Xiaomi MiMo 100T creator program.
+Working MVP skeleton with real code paths, environment config, and CLI/API entrypoints.
+
+## Author
+0xN404T

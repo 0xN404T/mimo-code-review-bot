@@ -1,0 +1,1 @@
+{"scripts":{"start":"node index.js"},"dependencies":{"@octokit/rest":"latest","dotenv":"latest"},"type":"module"}
