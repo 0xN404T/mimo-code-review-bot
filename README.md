@@ -43,3 +43,15 @@ A developer opens a pull request. The bot checks the code and comments:
 
 ## Why Xiaomi MiMo
 MiMo can be used as an API-based reasoning model for code review workflows. This project demonstrates practical integration with real developer tools.
+
+## Project Maturity
+- MVP code available
+- Architecture documented
+- Roadmap documented
+- CI configured
+- MIT licensed
+
+## Links
+- [Architecture](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [Examples](examples/basic.md)
